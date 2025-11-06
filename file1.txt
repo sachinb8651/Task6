@@ -1,0 +1,19 @@
+﻿Artificial Intelligence - Teaching Machines to
+Think
+
+Artificial Intelligence, or AI, means teaching computers to think and learn like
+humans. It helps machines understand information, make decisions, and even
+solve problems. AI is used in many areas of our daily life without us realizing it.
+When you talk to voice assistants like Alexa or Siri, watch movie suggestions on
+Netflix, or get map directions from Google, AI is working behind the scenes. There
+are different types of AI—some are simple, like spam filters, and others are
+advanced, like self-driving cars. The main goal of AI is to create systems that can
+learn from experience. Machine Learning is a big part of AI, where computers learn
+patterns from data. Deep Learning goes even deeper, using artificial neural
+networks that mimic the human brain. AI is also used in hospitals to help doctors
+detect diseases, in schools to create smart learning tools, and in businesses to
+make better decisions. However, AI also brings challenges like job automation and
+data privacy issues. That’s why it’s important to use AI responsibly. The future of AI
+looks bright—it will continue to grow and make our lives easier, faster, and
+smarter. From robots to smart chatbots, AI is changing the world step by step and
+teaching machines to think more like us.
